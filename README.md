@@ -17,8 +17,21 @@ A real-time finger counting application built using Python, OpenCV, and MediaPip
 
 ## How It Works
 
-1. Captures video from webcam.
+1. Captures video from the webcam.
 2. Detects hand landmarks using MediaPipe Hands.
 3. Determines which fingers are raised.
 4. Displays the total finger count on the screen.
 
+## Screenshots
+
+![Count 0](screenshots/0.png)
+
+![Count 1](screenshots/1.png)
+
+![Count 2](screenshots/2.png)
+
+![Count 3](screenshots/3.png)
+
+![Count 4](screenshots/4.png)
+
+![Count 5](screenshots/5.png)
